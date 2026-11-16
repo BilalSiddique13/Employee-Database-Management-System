@@ -1,0 +1,8 @@
+.venv/
+.vs/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+reports/*.xlsx
